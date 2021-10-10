@@ -1,0 +1,46 @@
+* {
+    margin: 0 auto;
+    background-color: rgb(252, 235, 209);
+}
+.left td  {
+    border-bottom: 1px solid rgb(0, 0, 0);
+
+} 
+.right td {
+    border-bottom: 1px solid rgb(0, 0, 0);
+    text-align: left;
+
+} 
+caption {
+    font-size: 50px;
+}
+td {
+    height: 100px;
+    text-align: center;
+}
+.left, .right {
+    border: 1px solid rgb(0, 0, 0);
+}
+.left {
+    width: 500px;
+    height: 600px;
+}
+.right {
+    width: 1000px;
+    height: 600px;
+}
+.main {
+    border-spacing: 20px;
+}
+.bottom {
+   text-align: center;
+}
+a {
+    padding: 20px 50px;
+    background-color: rgb(142, 255, 217);
+    text-decoration: none;
+   
+}
+.zero {
+    height: 50px;
+}
